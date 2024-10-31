@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="master-artboard" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="enable-background:new 0 0 1400 980;" width="50px" height="50px"><g transform="matrix(0.37037037037037035, 0, 0, 0.37037037037037035, 0.000005086263172415784, 20.18518327783655)"><g transform="matrix(0.146418, 0, 0, 0.146418, -4.230052, -60.481632)">
+    <g transform="matrix(2.970363855361939, 0, 0, 2.970363855361939, -73.45478603929314, -995.8201724576651)">
+      <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="35.7143" y1="498.3038" x2="341.6241" y2="498.3038">
+        <stop offset="0" style="stop-color:#B2D7F3"/>
+        <stop offset="1" style="stop-color:#9DA0CE"/>
+      </linearGradient>
+      <path class="st0" d="M341.62,569.45c0,3.59-0.12,7.14-0.36,10.67H36.08c-0.24-3.52-0.36-7.08-0.36-10.67 c0-84.48,68.48-152.96,152.96-152.96S341.62,484.97,341.62,569.45z" style="fill: url('#SVGID_1_');"/>
+      <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="54.6192" y1="507.7588" x2="322.7191" y2="507.7588">
+        <stop offset="0" style="stop-color:#60B0E2"/>
+        <stop offset="1" style="stop-color:#5060A8"/>
+      </linearGradient>
+      <path class="st1" d="M322.72,569.45c0,3.59-0.14,7.15-0.42,10.67H55.04c-0.28-3.52-0.42-7.08-0.42-10.67 c0-74.04,60.02-134.05,134.05-134.05S322.72,495.41,322.72,569.45z" style="fill: url('#SVGID_2_');"/>
+      <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="72.7507" y1="516.822" x2="304.5877" y2="516.822">
+        <stop offset="0" style="stop-color:#23AAE1"/>
+        <stop offset="1" style="stop-color:#244E9E"/>
+      </linearGradient>
+      <path class="st2" d="M304.59,569.45c0,3.6-0.17,7.15-0.48,10.67H73.23c-0.32-3.52-0.48-7.08-0.48-10.67 c0-64.02,51.9-115.92,115.92-115.92S304.59,505.43,304.59,569.45z" style="fill: url('#SVGID_3_');"/>
+      <path d="M 147.6199951171875 580.1199951171875 L 147.6199951171875 541.2999877929688 L 139.63999938964844 541.2999877929688 L 188.3000030517578 492.6400146484375 L 209.83999633789062 514.1799926757812 L 209.83999633789062 502.8599853515625 L 222.27999877929688 502.8599853515625 L 222.27999877929688 525.3300170898438 L 237.6999969482422 540.739990234375 L 228.7899932861328 540.739990234375 L 228.7899932861328 580.1199951171875 Z" class="st3" style="fill: rgb(255, 255, 255);"/>
+      <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="177.8957" y1="570.4222" x2="199.2558" y2="570.4222">
+        <stop offset="0" style="stop-color:#1B85CB"/>
+        <stop offset="1" style="stop-color:#1480C7"/>
+      </linearGradient>
+      <path d="M 177.899994 560.580017 H 199.259995 V 580.270018 H 177.899994 V 560.580017 Z" class="st4" style="fill: url('#SVGID_4_');"/>
+    </g>
+    
+  </g></g></svg>

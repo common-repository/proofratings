@@ -1,0 +1,38 @@
+#proofrating-notice {
+    font-size: 16px;
+}
+
+#proofrating-notice p {font-size: inherit}
+
+#proofrating-notice .btn-actions {
+    margin-bottom: 10px;
+}
+
+#proofrating-notice .btn-actions a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.proofratings-demo-message {
+    color: #fff;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    gap: 8px;
+    font-weight: bold;
+    display: flex;
+    padding: 10px 18px;
+    border-radius: 100px;
+    padding-inline-start: 35px;
+    transform: translateX(-50%);
+    background: url(../images/flash.svg) no-repeat left center;
+    background-color: #2C3149;
+    background-position-x: 13px;
+    background-size: 16px auto;
+}
+
+.proofratings-demo-message a {
+    color: inherit;
+}
+
+#toplevel_page_proofratings .wp-submenu .wp-first-item {display: none}
